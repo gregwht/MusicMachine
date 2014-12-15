@@ -10,4 +10,4 @@ This folder contains:
 
 Please download, then take the folder labelled "MusicMachineSubmission" and put it in the "myApps" folder of your openFrameworks folder.
 
-If that does not work, try the zipped version. 
+If that does not work, please try the zipped version. 
